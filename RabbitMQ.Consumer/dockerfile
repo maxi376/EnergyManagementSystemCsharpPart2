@@ -1,0 +1,3 @@
+FROM mcr.microsoft.com/dotnet/core/sdk:7.0.100
+COPY bin\Release\netcoreapp3.1\publish .
+ENTRYPOINT ["dotnet", "RabbitMQ.Consumer.dll"]
