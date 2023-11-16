@@ -1,5 +1,5 @@
 # EnergyManagementSystemCsharpPart2
-Energy Management System Csharp Part1
+Energy Management System Csharp Part2
 
 The role of this project is to better understand and create a system of Asynchronous Communication and Real-Time Notification.
 
